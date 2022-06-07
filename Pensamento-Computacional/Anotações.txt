@@ -1,0 +1,7 @@
+# Pensamento Computacional
+
+Existem 4 Pilares: 
+- Decomposição
+- Padrões 
+- Abstração 
+- Algoritmos
